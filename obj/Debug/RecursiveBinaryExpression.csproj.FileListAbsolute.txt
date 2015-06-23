@@ -1,0 +1,6 @@
+E:\TestSolutions\RecursiveBinaryExpression\bin\Debug\RecursiveBinaryExpression.exe.config
+E:\TestSolutions\RecursiveBinaryExpression\bin\Debug\RecursiveBinaryExpression.exe
+E:\TestSolutions\RecursiveBinaryExpression\bin\Debug\RecursiveBinaryExpression.pdb
+E:\TestSolutions\RecursiveBinaryExpression\obj\Debug\RecursiveBinaryExpression.csprojResolveAssemblyReference.cache
+E:\TestSolutions\RecursiveBinaryExpression\obj\Debug\RecursiveBinaryExpression.exe
+E:\TestSolutions\RecursiveBinaryExpression\obj\Debug\RecursiveBinaryExpression.pdb
